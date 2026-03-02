@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Example3 - Nested Scope" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.bank.scopedvalue.Example3NestedScope" />
+    <module name="scoped-value-demo" />
+    <method v="2"><option name="Make" enabled="true" /></method>
+  </configuration>
+</component>
